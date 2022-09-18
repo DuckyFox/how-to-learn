@@ -1,6 +1,6 @@
-.feynman__link{
+.feynman__link {
   display: flex;
-  position:absolute;
+  position: absolute;
   font-size: 36px;
   line-height: 51px;
   top: 50%;
@@ -10,6 +10,6 @@
   transition: text-shadow 1s linear 0s;
 }
 
-.feynman__link:hover{
+.feynman__link:hover {
   text-shadow: 0 0 3px #000000;
 }

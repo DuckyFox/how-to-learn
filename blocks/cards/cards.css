@@ -1,8 +1,8 @@
-.cards{
-    display: flex;
-    max-width: 920px;
-    width: 100%;
-    margin: 0 auto;
-    flex-wrap: wrap;
-    column-gap:100px;
+.cards {
+  display: flex;
+  max-width: 920px;
+  width: 100%;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  column-gap: 100px;
 }
